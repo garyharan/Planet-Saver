@@ -1,0 +1,258 @@
+TPlanet-Saver
+v7
+r0
+t301894855.062895
+cCheck dependencies
+cProcessInfoPlistFile /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Info.plist Planet_Saver-Info.plist
+cCompileXIB /Users/garyharan/work/Planet-Saver/MainWindow.xib
+cCompileXIB /Users/garyharan/work/Planet-Saver/Planet_SaverViewController.xib
+cProcessPCH /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-evxpzjigmxgmvucnkfhgujukiofu/Planet_Saver_Prefix.pch.gch Planet_Saver_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/main.o /Users/garyharan/work/Planet-Saver/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/Planet_SaverAppDelegate.o /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/Planet_SaverViewController.o /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Planet-Saver normal i386
+cGenerateDSYMFile /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app.dSYM /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Planet-Saver
+cTouch /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C40B0220000000000000132
+t1279307810
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.h
+c000000004C4E4F5C00000000000001FC
+t1280200540
+s508
+i<UIKit/UIKit.h>
+
+N/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m
+c000000004C4E4F5C0000000000000AA3
+t1280200540
+s2723
+i"Planet_SaverAppDelegate.h"
+i"Planet_SaverViewController.h"
+
+N/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.h
+c000000004C4E530200000000000002AF
+t1280201474
+s687
+i<UIKit/UIKit.h>
+
+N/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m
+c000000004C4E5486000000000000035D
+t1280201862
+s861
+i"Planet_SaverViewController.h"
+
+N/Users/garyharan/work/Planet-Saver/MainWindow.xib
+c000000004C4E4F5C0000000000004E65
+t1280200540
+s20069
+
+N/Users/garyharan/work/Planet-Saver/Planet_SaverViewController.xib
+c000000004C4E547C0000000000005C14
+t1280201852
+s23572
+
+N/Users/garyharan/work/Planet-Saver/Planet_Saver_Prefix.pch
+c000000004C4E4F5C00000000000000C1
+t1280200540
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app
+t1280202055
+s238
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app.dSYM
+t1280202055
+s102
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Info.plist
+t1280202053
+s611
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/MainWindow.nib
+t1280202053
+s1133
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/PkgInfo
+t1280202053
+s8
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Planet-Saver
+t1280202055
+s19292
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Planet_SaverViewController.nib
+t1280202053
+s1683
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/Planet-Saver.LinkFileList
+c000000004C4E554500000000000001A9
+t1280202053
+s425
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/Planet_SaverAppDelegate.o
+t1280202054
+s48772
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/Planet_SaverViewController.o
+t1280202054
+s45284
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/main.o
+t1280202054
+s6296
+
+N/Users/garyharan/work/Planet-Saver/main.m
+c000000004C4E4F5C000000000000016D
+t1280200540
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-evxpzjigmxgmvucnkfhgujukiofu/Planet_Saver_Prefix.pch.gch
+t1280202054
+s15232016
+
+NPlanet_Saver-Info.plist
+c000000004C4E5539000000000000038D
+t1280202041
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301894853#301894853#0(0"0(0#1#0"8629706944#0"0#
+
+CCompileC build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/Planet_SaverAppDelegate.o /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301894854.629238
+e301894854.790229
+r1
+xCompileC
+xbuild/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/Planet_SaverAppDelegate.o
+x/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m301894854#301894854#0(0"0(0#0#68"/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m8625264000#2033"    cd /Users/garyharan/work/Planet-Saver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-generated-files.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-own-target-headers.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-all-target-headers.hmap -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-project-headers.hmap -F/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator -I/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/include -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/DerivedSources/i386 -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/DerivedSources -include /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-evxpzjigmxgmvucnkfhgujukiofu/Planet_Saver_Prefix.pch -c /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m -o /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/Planet_SaverAppDelegate.o0#
+
+CCompileC build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/Planet_SaverViewController.o /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301894854.776102
+e301894854.847048
+r1
+xCompileC
+xbuild/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/Planet_SaverViewController.o
+x/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m301894854#301894854#0(0"0(0#0#71"/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m8614007552#2039"    cd /Users/garyharan/work/Planet-Saver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-generated-files.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-own-target-headers.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-all-target-headers.hmap -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-project-headers.hmap -F/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator -I/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/include -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/DerivedSources/i386 -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/DerivedSources -include /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-evxpzjigmxgmvucnkfhgujukiofu/Planet_Saver_Prefix.pch -c /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m -o /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/Planet_SaverViewController.o0#
+
+CCompileC build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/main.o /Users/garyharan/work/Planet-Saver/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301894854.628303
+e301894854.775918
+r1
+xCompileC
+xbuild/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/main.o
+x/Users/garyharan/work/Planet-Saver/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/garyharan/work/Planet-Saver/main.m301894854#301894854#0(0"0(0#0#41"/Users/garyharan/work/Planet-Saver/main.m8625429568#1987"    cd /Users/garyharan/work/Planet-Saver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-generated-files.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-own-target-headers.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-all-target-headers.hmap -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-project-headers.hmap -F/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator -I/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/include -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/DerivedSources/i386 -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/DerivedSources -include /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-evxpzjigmxgmvucnkfhgujukiofu/Planet_Saver_Prefix.pch -c /Users/garyharan/work/Planet-Saver/main.m -o /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/garyharan/work/Planet-Saver/MainWindow.xib
+s301894853.142993
+e301894853.820827
+r1
+xCompileXIB
+x/Users/garyharan/work/Planet-Saver/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib301894853#301894853#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#49"/Users/garyharan/work/Planet-Saver/MainWindow.xib8629273440#593"    cd /Users/garyharan/work/Planet-Saver    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/MainWindow.nib /Users/garyharan/work/Planet-Saver/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/garyharan/work/Planet-Saver/Planet_SaverViewController.xib
+s301894853.143766
+e301894853.778936
+r1
+xCompileXIB
+x/Users/garyharan/work/Planet-Saver/Planet_SaverViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@41"CompileXIB Planet_SaverViewController.xib301894853#301894853#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#65"/Users/garyharan/work/Planet-Saver/Planet_SaverViewController.xib8629236192#625"    cd /Users/garyharan/work/Planet-Saver    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Planet_SaverViewController.nib /Users/garyharan/work/Planet-Saver/Planet_SaverViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app.dSYM /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Planet-Saver
+s301894855.043659
+e301894855.060222
+r1
+xGenerateDSYMFile
+x/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app.dSYM
+x/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Planet-Saver
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/Planet-Saver.app.dSYM build/Debug-iphonesimulator/Planet-Saver.app/Planet-Saver301894855#301894855#0(0"0(0#0#92"/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Planet-Saver8614529376#416"    cd /Users/garyharan/work/Planet-Saver    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Planet-Saver -o /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app.dSYM0#
+
+CLd /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Planet-Saver normal i386
+s301894854.847139
+e301894855.043560
+r1
+xLd
+x/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Planet-Saver
+xnormal
+xi386
+lSLF07#2@97"Link /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Planet-Saver301894854#301894855#0(0"0(0#0#0"8625562752#935"    cd /Users/garyharan/work/Planet-Saver    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator -F/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator -filelist /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Objects-normal/i386/Planet-Saver.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Planet-Saver0#
+
+CProcessInfoPlistFile /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Info.plist Planet_Saver-Info.plist
+s301894853.138909
+e301894853.142920
+r1
+xProcessInfoPlistFile
+x/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Info.plist
+xPlanet_Saver-Info.plist
+lSLF07#2@31"Process Planet_Saver-Info.plist301894853#301894853#0(0"0(0#0#58"/Users/garyharan/work/Planet-Saver/Planet_Saver-Info.plist8629384064#512"    cd /Users/garyharan/work/Planet-Saver    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Planet_Saver-Info.plist -genpkginfo /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app/Info.plist0#
+
+CProcessPCH /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-evxpzjigmxgmvucnkfhgujukiofu/Planet_Saver_Prefix.pch.gch Planet_Saver_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s301894853.820951
+e301894854.628206
+r1
+xProcessPCH
+x/var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-evxpzjigmxgmvucnkfhgujukiofu/Planet_Saver_Prefix.pch.gch
+xPlanet_Saver_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Planet_Saver_Prefix.pch301894853#301894854#0(0"0(0#0#58"/Users/garyharan/work/Planet-Saver/Planet_Saver_Prefix.pch8629546048#1878"    cd /Users/garyharan/work/Planet-Saver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-generated-files.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-own-target-headers.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-all-target-headers.hmap -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/Planet-Saver-project-headers.hmap -F/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator -I/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/include -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/DerivedSources/i386 -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphonesimulator/Planet-Saver.build/DerivedSources -c /Users/garyharan/work/Planet-Saver/Planet_Saver_Prefix.pch -o /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-evxpzjigmxgmvucnkfhgujukiofu/Planet_Saver_Prefix.pch.gch0#
+
+CTouch /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app
+s301894855.060310
+e301894855.062869
+r1
+xTouch
+x/Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app
+lSLF07#2@85"Touch /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app301894855#301894855#0(0"0(0#0#0"8613954752#305"    cd /Users/garyharan/work/Planet-Saver    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/garyharan/work/Planet-Saver/build/Debug-iphonesimulator/Planet-Saver.app0#
+

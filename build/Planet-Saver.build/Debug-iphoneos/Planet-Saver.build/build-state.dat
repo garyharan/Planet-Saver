@@ -1,0 +1,449 @@
+TPlanet-Saver
+v7
+r0
+t301894950.203905
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Planet-Saver.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Info.plist Planet_Saver-Info.plist
+cCompileXIB /Users/garyharan/work/Planet-Saver/MainWindow.xib
+cCompileXIB /Users/garyharan/work/Planet-Saver/Planet_SaverViewController.xib
+cProcessPCH /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-edrzmdxjykesfaatzxgeyfekeqez/Planet_Saver_Prefix.pch.gch Planet_Saver_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-aohgfmypspoyaoamiebaxlxmylsh/Planet_Saver_Prefix.pch.gch Planet_Saver_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/main.o /Users/garyharan/work/Planet-Saver/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet_SaverAppDelegate.o /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet_SaverViewController.o /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet-Saver normal armv6
+cCompileC build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/main.o /Users/garyharan/work/Planet-Saver/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet_SaverAppDelegate.o /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet_SaverViewController.o /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet-Saver normal armv7
+cCreateUniversalBinary /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Planet-Saver normal "armv6 armv7"
+cGenerateDSYMFile /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app.dSYM /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Planet-Saver
+cProcessProductPackaging "/Users/garyharan/Library/MobileDevice/Provisioning Profiles/2A7F02BE-EAF9-43E7-8C47-CAE45238999B.mobileprovision" /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/embedded.mobileprovision
+cTouch /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver.xcent
+cCodeSign /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C40B00C0000000000000110
+t1279307788
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004C2A7DA700000000000001A7
+t1277853095
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C2A7DA700000000000001E5
+t1277853095
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/garyharan/Library/MobileDevice/Provisioning Profiles/2A7F02BE-EAF9-43E7-8C47-CAE45238999B.mobileprovision
+c000000004C3B3EFC0000000000001C06
+t1278951164
+s7174
+
+N/Users/garyharan/work/Planet-Saver/Classes/Planet_Saver.xib
+c000000004C4E525F0000000000005C45
+t1280201311
+s23621
+
+N/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.h
+c000000004C4E4F5C00000000000001FC
+t1280200540
+s508
+i<UIKit/UIKit.h>
+
+N/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m
+c000000004C4E4F5C0000000000000AA3
+t1280200540
+s2723
+i"Planet_SaverAppDelegate.h"
+i"Planet_SaverViewController.h"
+
+N/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.h
+c000000004C4E530200000000000002AF
+t1280201474
+s687
+i<UIKit/UIKit.h>
+
+N/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m
+c000000004C4E5486000000000000035D
+t1280201862
+s861
+i"Planet_SaverViewController.h"
+
+N/Users/garyharan/work/Planet-Saver/MainWindow.xib
+c000000004C4E4F5C0000000000004E65
+t1280200540
+s20069
+
+N/Users/garyharan/work/Planet-Saver/Planet_SaverViewController.xib
+c000000004C4E559A0000000000005D50
+t1280202138
+s23888
+
+N/Users/garyharan/work/Planet-Saver/Planet_Saver_Prefix.pch
+c000000004C4E4F5C00000000000000C1
+t1280200540
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app
+t1280202150
+s408
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app.dSYM
+t1280201912
+s102
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Info.plist
+t1280202045
+s746
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/MainWindow.nib
+t1280201093
+s1133
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/PkgInfo
+t1280202045
+s8
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Planet-Saver
+t1280201912
+s61984
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Planet_Saver.nib
+t1280201314
+s1683
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Planet_SaverViewController.nib
+t1280202149
+s1720
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/ResourceRules.plist
+t1280201092
+s485
+
+N/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/embedded.mobileprovision
+t1280201095
+s7174
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet-Saver
+t1280201912
+s23408
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet-Saver.LinkFileList
+c000000004C4E51840000000000000197
+t1280201092
+s407
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet_SaverAppDelegate.o
+t1280201487
+s48104
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet_SaverViewController.o
+t1280201912
+s44240
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/main.o
+t1280201094
+s6432
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet-Saver
+t1280201912
+s19204
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet-Saver.LinkFileList
+c000000004C4E51840000000000000197
+t1280201092
+s407
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet_SaverAppDelegate.o
+t1280201487
+s48024
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet_SaverViewController.o
+t1280201912
+s43772
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/main.o
+t1280201094
+s6416
+
+N/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver.xcent
+t1280202045
+s430
+
+N/Users/garyharan/work/Planet-Saver/main.m
+c000000004C4E4F5C000000000000016D
+t1280200540
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-aohgfmypspoyaoamiebaxlxmylsh/Planet_Saver_Prefix.pch.gch
+t1280201094
+s10290736
+
+N/var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-edrzmdxjykesfaatzxgeyfekeqez/Planet_Saver_Prefix.pch.gch
+t1280201094
+s9831984
+
+NPlanet_Saver-Info.plist
+c000000004C4E5539000000000000038D
+t1280202041
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301894949#301894949#0(0"0(0#1#0"8602919456#0"0#
+
+CCodeSign /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app
+s301894950.004599
+e301894950.203871
+r1
+xCodeSign
+x/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app
+o/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app: replacing existing signature
+lSLF07#2@46"CodeSign build/Debug-iphoneos/Planet-Saver.app301894950#301894950#0(103"/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app: replacing existing signature0(0#0#72"/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app8622907808#685"    cd /Users/garyharan/work/Planet-Saver    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Gary Haran (TPFA75M6J9)" --resource-rules=/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/ResourceRules.plist --entitlements /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver.xcent /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app0#
+
+CCompileC build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet_SaverAppDelegate.o /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301894287.164186
+e301894287.266719
+r1
+xCompileC
+xbuild/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet_SaverAppDelegate.o
+x/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m301894287#301894287#0(0"0(0#0#68"/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m8613506528#1856"    cd /Users/garyharan/work/Planet-Saver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-generated-files.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-own-target-headers.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-all-target-headers.hmap -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-project-headers.hmap -F/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos -I/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/include -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources/armv6 -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources -include /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-edrzmdxjykesfaatzxgeyfekeqez/Planet_Saver_Prefix.pch -c /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m -o /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet_SaverAppDelegate.o0#
+
+CCompileC build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet_SaverViewController.o /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301894712.213458
+e301894712.341896
+r1
+xCompileC
+xbuild/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet_SaverViewController.o
+x/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m301894712#301894712#0(0"0(0#0#71"/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m8622748736#1862"    cd /Users/garyharan/work/Planet-Saver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-generated-files.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-own-target-headers.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-all-target-headers.hmap -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-project-headers.hmap -F/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos -I/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/include -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources/armv6 -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources -include /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-edrzmdxjykesfaatzxgeyfekeqez/Planet_Saver_Prefix.pch -c /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m -o /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet_SaverViewController.o0#
+
+CCompileC build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/main.o /Users/garyharan/work/Planet-Saver/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301893894.526961
+e301893894.608074
+r1
+xCompileC
+xbuild/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/main.o
+x/Users/garyharan/work/Planet-Saver/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/garyharan/work/Planet-Saver/main.m301893894#301893894#0(0"0(0#0#41"/Users/garyharan/work/Planet-Saver/main.m8618705536#1810"    cd /Users/garyharan/work/Planet-Saver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-generated-files.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-own-target-headers.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-all-target-headers.hmap -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-project-headers.hmap -F/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos -I/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/include -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources/armv6 -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources -include /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-edrzmdxjykesfaatzxgeyfekeqez/Planet_Saver_Prefix.pch -c /Users/garyharan/work/Planet-Saver/main.m -o /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet_SaverAppDelegate.o /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s301894287.267885
+e301894287.364490
+r1
+xCompileC
+xbuild/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet_SaverAppDelegate.o
+x/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m301894287#301894287#0(0"0(0#0#68"/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m8618860160#1856"    cd /Users/garyharan/work/Planet-Saver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-generated-files.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-own-target-headers.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-all-target-headers.hmap -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-project-headers.hmap -F/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos -I/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/include -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources/armv7 -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources -include /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-aohgfmypspoyaoamiebaxlxmylsh/Planet_Saver_Prefix.pch -c /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverAppDelegate.m -o /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet_SaverAppDelegate.o0#
+
+CCompileC build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet_SaverViewController.o /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s301894712.215518
+e301894712.354681
+r1
+xCompileC
+xbuild/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet_SaverViewController.o
+x/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m301894712#301894712#0(0"0(0#0#71"/Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m8623283456#1862"    cd /Users/garyharan/work/Planet-Saver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-generated-files.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-own-target-headers.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-all-target-headers.hmap -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-project-headers.hmap -F/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos -I/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/include -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources/armv7 -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources -include /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-aohgfmypspoyaoamiebaxlxmylsh/Planet_Saver_Prefix.pch -c /Users/garyharan/work/Planet-Saver/Classes/Planet_SaverViewController.m -o /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet_SaverViewController.o0#
+
+CCompileC build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/main.o /Users/garyharan/work/Planet-Saver/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s301893894.626442
+e301893894.693735
+r1
+xCompileC
+xbuild/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/main.o
+x/Users/garyharan/work/Planet-Saver/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/garyharan/work/Planet-Saver/main.m301893894#301893894#0(0"0(0#0#41"/Users/garyharan/work/Planet-Saver/main.m8603691776#1810"    cd /Users/garyharan/work/Planet-Saver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-generated-files.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-own-target-headers.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-all-target-headers.hmap -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-project-headers.hmap -F/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos -I/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/include -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources/armv7 -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources -include /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-aohgfmypspoyaoamiebaxlxmylsh/Planet_Saver_Prefix.pch -c /Users/garyharan/work/Planet-Saver/main.m -o /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/garyharan/work/Planet-Saver/Classes/Planet_Saver.xib
+s301894114.351130
+e301894114.800481
+r1
+xCompileXIB
+x/Users/garyharan/work/Planet-Saver/Classes/Planet_Saver.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@35"CompileXIB Classes/Planet_Saver.xib301894114#301894114#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#59"/Users/garyharan/work/Planet-Saver/Classes/Planet_Saver.xib8613814752#577"    cd /Users/garyharan/work/Planet-Saver    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Planet_Saver.nib /Users/garyharan/work/Planet-Saver/Classes/Planet_Saver.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/garyharan/work/Planet-Saver/MainWindow.xib
+s301893892.713305
+e301893893.138329
+r1
+xCompileXIB
+x/Users/garyharan/work/Planet-Saver/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib301893892#301893893#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#49"/Users/garyharan/work/Planet-Saver/MainWindow.xib8615616384#565"    cd /Users/garyharan/work/Planet-Saver    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/MainWindow.nib /Users/garyharan/work/Planet-Saver/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/garyharan/work/Planet-Saver/Planet_SaverViewController.xib
+s301894949.571805
+e301894950.000411
+r1
+xCompileXIB
+x/Users/garyharan/work/Planet-Saver/Planet_SaverViewController.xib
+lSLF07#2@41"CompileXIB Planet_SaverViewController.xib301894949#301894950#0(0"0(0#0#65"/Users/garyharan/work/Planet-Saver/Planet_SaverViewController.xib8612115424#597"    cd /Users/garyharan/work/Planet-Saver    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Planet_SaverViewController.nib /Users/garyharan/work/Planet-Saver/Planet_SaverViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCpResource build/Debug-iphoneos/Planet-Saver.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s301893892.656626
+e301893892.713236
+r1
+xCpResource
+xbuild/Debug-iphoneos/Planet-Saver.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist301893892#301893892#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist5994135409057033216#507"    cd /Users/garyharan/work/Planet-Saver    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app0#
+
+CCreateUniversalBinary /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Planet-Saver normal "armv6 armv7"
+s301894712.382385
+e301894712.385837
+r1
+xCreateUniversalBinary
+x/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Planet-Saver
+xnormal
+xarmv6 armv7
+lSLF07#2@93"CreateUniversalBinary build/Debug-iphoneos/Planet-Saver.app/Planet-Saver normal "armv6 armv7"301894712#301894712#0(0"0(0#0#46"/Users/garyharan/work/Planet-Saver/armv6 armv78622721600#572"    cd /Users/garyharan/work/Planet-Saver    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet-Saver /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet-Saver -output /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Planet-Saver0#
+
+CGenerateDSYMFile /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app.dSYM /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Planet-Saver
+s301894712.386358
+e301894712.410456
+r1
+xGenerateDSYMFile
+x/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app.dSYM
+x/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Planet-Saver
+lSLF07#2@110"GenerateDSYMFile build/Debug-iphoneos/Planet-Saver.app.dSYM build/Debug-iphoneos/Planet-Saver.app/Planet-Saver301894712#301894712#0(0"0(0#0#85"/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Planet-Saver8622781376#395"    cd /Users/garyharan/work/Planet-Saver    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Planet-Saver -o /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app.dSYM0#
+
+CLd /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet-Saver normal armv6
+s301894712.350921
+e301894712.381519
+r1
+xLd
+x/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet-Saver
+xnormal
+xarmv6
+lSLF07#2@132"Link /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet-Saver301894712#301894712#0(0"0(0#0#0"8622858272#899"    cd /Users/garyharan/work/Planet-Saver    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos -F/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos -filelist /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet-Saver.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv6/Planet-Saver0#
+
+CLd /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet-Saver normal armv7
+s301894712.354760
+e301894712.382315
+r1
+xLd
+x/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet-Saver
+xnormal
+xarmv7
+lSLF07#2@132"Link /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet-Saver301894712#301894712#0(0"0(0#0#0"8622810208#899"    cd /Users/garyharan/work/Planet-Saver    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos -F/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos -filelist /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet-Saver.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Objects-normal/armv7/Planet-Saver0#
+
+CProcessInfoPlistFile /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Info.plist Planet_Saver-Info.plist
+s301894845.838403
+e301894845.857804
+r1
+xProcessInfoPlistFile
+x/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Info.plist
+xPlanet_Saver-Info.plist
+lSLF07#2@31"Process Planet_Saver-Info.plist301894845#301894845#0(0"0(0#0#58"/Users/garyharan/work/Planet-Saver/Planet_Saver-Info.plist8604250016#596"    cd /Users/garyharan/work/Planet-Saver    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Planet_Saver-Info.plist -genpkginfo /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/ResourceRules.plist -o /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/Info.plist0#
+
+CProcessPCH /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-aohgfmypspoyaoamiebaxlxmylsh/Planet_Saver_Prefix.pch.gch Planet_Saver_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s301893893.533282
+e301893894.526864
+r1
+xProcessPCH
+x/var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-aohgfmypspoyaoamiebaxlxmylsh/Planet_Saver_Prefix.pch.gch
+xPlanet_Saver_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Planet_Saver_Prefix.pch301893893#301893894#0(0"0(0#0#58"/Users/garyharan/work/Planet-Saver/Planet_Saver_Prefix.pch8614137760#1707"    cd /Users/garyharan/work/Planet-Saver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-generated-files.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-own-target-headers.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-all-target-headers.hmap -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-project-headers.hmap -F/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos -I/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/include -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources/armv7 -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources -c /Users/garyharan/work/Planet-Saver/Planet_Saver_Prefix.pch -o /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-aohgfmypspoyaoamiebaxlxmylsh/Planet_Saver_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-edrzmdxjykesfaatzxgeyfekeqez/Planet_Saver_Prefix.pch.gch Planet_Saver_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301893893.532414
+e301893894.459050
+r1
+xProcessPCH
+x/var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-edrzmdxjykesfaatzxgeyfekeqez/Planet_Saver_Prefix.pch.gch
+xPlanet_Saver_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Planet_Saver_Prefix.pch301893893#301893894#0(0"0(0#0#58"/Users/garyharan/work/Planet-Saver/Planet_Saver_Prefix.pch8614344640#1707"    cd /Users/garyharan/work/Planet-Saver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-generated-files.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-own-target-headers.hmap -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-all-target-headers.hmap -iquote /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver-project-headers.hmap -F/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos -I/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/include -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources/armv6 -I/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/DerivedSources -c /Users/garyharan/work/Planet-Saver/Planet_Saver_Prefix.pch -o /var/folders/Cy/CyBRfX5lHJ8hoJeWYInyiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Planet_Saver_Prefix-edrzmdxjykesfaatzxgeyfekeqez/Planet_Saver_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/garyharan/Library/MobileDevice/Provisioning Profiles/2A7F02BE-EAF9-43E7-8C47-CAE45238999B.mobileprovision" /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/embedded.mobileprovision
+s301893895.668012
+e301893895.685486
+r1
+xProcessProductPackaging
+x/Users/garyharan/Library/MobileDevice/Provisioning Profiles/2A7F02BE-EAF9-43E7-8C47-CAE45238999B.mobileprovision
+x/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/embedded.mobileprovision
+lSLF07#2@201"ProcessProductPackaging "/Users/garyharan/Library/MobileDevice/Provisioning Profiles/2A7F02BE-EAF9-43E7-8C47-CAE45238999B.mobileprovision" build/Debug-iphoneos/Planet-Saver.app/embedded.mobileprovision301893895#301893895#0(0"0(0#0#97"/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/embedded.mobileprovision8616472320#454"    cd /Users/garyharan/work/Planet-Saver    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/garyharan/Library/MobileDevice/Provisioning Profiles/2A7F02BE-EAF9-43E7-8C47-CAE45238999B.mobileprovision" -o /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver.xcent
+s301894845.861737
+e301894845.891224
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver.xcent
+lSLF07#2@190"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver.xcent301894845#301894845#0(0"0(0#0#112"/Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver.xcent8618315936#469"    cd /Users/garyharan/work/Planet-Saver    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/garyharan/work/Planet-Saver/build/Planet-Saver.build/Debug-iphoneos/Planet-Saver.build/Planet-Saver.xcent0#
+
+CTouch /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app
+s301894950.001962
+e301894950.004463
+r1
+xTouch
+x/Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app
+lSLF07#2@78"Touch /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app301894950#301894950#0(0"0(0#0#0"8623153440#291"    cd /Users/garyharan/work/Planet-Saver    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/local/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/garyharan/work/Planet-Saver/build/Debug-iphoneos/Planet-Saver.app0#
+
